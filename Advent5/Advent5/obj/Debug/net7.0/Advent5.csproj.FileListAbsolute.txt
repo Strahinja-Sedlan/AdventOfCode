@@ -1,0 +1,14 @@
+C:\Users\Strahinja\source\repos\Advent5\Advent5\bin\Debug\net7.0\Advent5.exe
+C:\Users\Strahinja\source\repos\Advent5\Advent5\bin\Debug\net7.0\Advent5.deps.json
+C:\Users\Strahinja\source\repos\Advent5\Advent5\bin\Debug\net7.0\Advent5.runtimeconfig.json
+C:\Users\Strahinja\source\repos\Advent5\Advent5\bin\Debug\net7.0\Advent5.dll
+C:\Users\Strahinja\source\repos\Advent5\Advent5\bin\Debug\net7.0\Advent5.pdb
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.AssemblyInfoInputs.cache
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.AssemblyInfo.cs
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.dll
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\refint\Advent5.dll
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.pdb
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\Advent5.genruntimeconfig.cache
+C:\Users\Strahinja\source\repos\Advent5\Advent5\obj\Debug\net7.0\ref\Advent5.dll
